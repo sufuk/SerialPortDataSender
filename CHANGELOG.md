@@ -3,5 +3,10 @@
 # SerialPortDataSender Changelog
 
 ## [Unreleased]
+## [0.0.1] - 2023-11-21
+
 ### Added
-- Initial scaffold created from [IntelliJ Platform Plugin Template](https://github.com/JetBrains/intellij-platform-plugin-template)
+- File sender
+- Raw data sender
+- Serial port selector
+- Send size option
